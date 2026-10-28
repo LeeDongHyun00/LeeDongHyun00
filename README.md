@@ -6,6 +6,9 @@ UI/UX와 LLM에 관심을 갖고 모바일 앱과 인터랙티브 웹, 개발 �
 
 **About me**
 
+- 🎮 **[이어 · Wordrelay](https://wordrelay.onrender.com/)** — 친구와 함께 즐기는 실시간 끝말잇기 웹 게임을 만들었습니다.
+- ⏱️ **[Molip · 몰입](https://www.molip.app/)** — 할 일·프로젝트 관리와 집중 타이머, 활동 기록을 한곳에 모은 웹 앱을 만들었습니다.
+
 - 📱 **TREX** — 카메라로 운동 자세와 반복 횟수를 안내하는 Android/IOS 앱을 만들고 있습니다.
 - 🖥️ **CAwiki** — 컴퓨터 부품과 작동 과정을 3D로 살펴보는 웹을 만들고 있습니다.
 - 🛠️ **LocalHarnessMaker** — Codex의 작업 검증과 세션 인계를 돕는 플러그인을 개발합니다.
@@ -40,7 +43,7 @@ UI/UX와 LLM에 관심을 갖고 모바일 앱과 인터랙티브 웹, 개발 �
 <br />
 <br />
 
-#### Top Repositories
+#### Selected Projects
 
 <table>
 <tr>
@@ -95,6 +98,30 @@ UI/UX와 LLM에 관심을 갖고 모바일 앱과 인터랙티브 웹, 개발 �
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [이어 · Wordrelay](https://wordrelay.onrender.com/)
+
+친구와 함께 즐기는 2–4인 실시간 끝말잇기.<br />
+QR이나 방 코드로 초대하고, 짧아지는 제한 시간 안에 단어를 이어 갑니다.
+
+<sub>Rust · Axum · TypeScript · WebSocket</sub>
+
+[**Play now ↗**](https://wordrelay.onrender.com/) · [Code](https://github.com/LeeDongHyun00/wordrelay)
+
+</td>
+<td width="50%" valign="top">
+
+### [Molip · 몰입](https://www.molip.app/)
+
+오늘 할 일부터 집중 시간과 기록까지.<br />
+프로젝트와 할 일을 관리하고, 타이머로 집중한 시간을 일·주·월 단위로 돌아보는 웹 앱.
+
+[**Visit site ↗**](https://www.molip.app/)
+
+</td>
+</tr>
 </table>
 
 <br />
@@ -107,4 +134,4 @@ UI/UX와 LLM에 관심을 갖고 모바일 앱과 인터랙티브 웹, 개발 �
 
 <br />
 
-<sub>프로젝트별 구현과 실행 방법은 각 저장소의 README에 정리했습니다.</sub>
+<sub>공개 프로젝트의 구현과 실행 방법은 각 저장소의 README에서, 웹 서비스는 위 링크에서 확인할 수 있습니다.</sub>
