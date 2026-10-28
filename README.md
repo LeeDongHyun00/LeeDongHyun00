@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="100%" src="./assets/header.svg" alt="Hi, I'm Dong Hyun. Android apps · Interactive web · Developer tools" />
+  <img width="100%" src="./assets/header.svg" alt="Hi, I'm Dong Hyun. UI/UX design Mobile apps  Interactive web  Developer tools" />
 </p>
 
 UI/UX와 LLM에 관심을 갖고 Android 앱과 인터랙티브 웹, 개발 도구를 만드는 이동현입니다.
 
 **About me**
 
-- 📱 **TREX** — 카메라로 운동 자세와 반복 횟수를 안내하는 Android 앱을 만들고 있습니다.
+- 📱 **TREX** — 카메라로 운동 자세와 반복 횟수를 안내하는 Android/IOS 앱을 만들고 있습니다.
 - 🖥️ **CAwiki** — 컴퓨터 부품과 작동 과정을 3D로 살펴보는 웹을 만들고 있습니다.
 - 🛠️ **LocalHarnessMaker** — Codex의 작업 검증과 세션 인계를 돕는 플러그인을 개발합니다.
 - 🗓️ **그날어때** — 함께 일정을 잡는 그룹 캘린더 앱을 개발 중입니다.
@@ -35,7 +35,7 @@ UI/UX와 LLM에 관심을 갖고 Android 앱과 인터랙티브 웹, 개발 도�
 ### [CAwiki](https://github.com/LeeDongHyun00/CAwiki)
 
 컴퓨터 안에서는 무슨 일이 일어날까?<br />
-23종 하드웨어와 16개 동작 시나리오를 탐색하는 인터랙티브 위키.
+23종 하드웨어와 16개 동작 시나리오를 탐색하는 인터랙티브 위키
 
 <sub>JavaScript · Three.js · WebGL</sub>
 
@@ -47,7 +47,7 @@ UI/UX와 LLM에 관심을 갖고 Android 앱과 인터랙티브 웹, 개발 도�
 ### [TREX](https://github.com/LeeDongHyun00/TREX)
 
 카메라 자세 안내부터 운동·식단 기록까지.<br />
-Jetpack Compose로 만든 Android 앱. 체험판 APK를 공개하고 있습니다.
+현재는 Jetpack Compose로 만든 Android 앱. 체험판 APK를 공개하고 있습니다.
 
 <sub>Kotlin · Jetpack Compose · Spring Boot</sub>
 
