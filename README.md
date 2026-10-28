@@ -2,7 +2,7 @@
   <img width="100%" src="./assets/header.svg" alt="Hi, I'm Dong Hyun. Android apps · Interactive web · Developer tools" />
 </p>
 
-Android 앱과 인터랙티브 웹, 개발 도구를 만드는 이동현입니다.
+UI/UX와 LLM에 관심을 갖고 Android 앱과 인터랙티브 웹, 개발 도구를 만드는 이동현입니다.
 
 **About me**
 
