@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Dong Hyun.</title>
+  <desc id="desc">Android apps, interactive web, and developer tools.</desc>
+  <style>
+    .title { font: 700 54px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #7957d5; letter-spacing: -2px; }
+    .subtitle { font: 400 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #667085; letter-spacing: 1px; }
+    @media (prefers-color-scheme: dark) { .title { fill: #b7a0ff; } .subtitle { fill: #a8b2c1; } }
+  </style>
+  <text class="title" x="480" y="85" text-anchor="middle">Hi, I'm Dong Hyun.</text>
+  <text class="subtitle" x="480" y="126" text-anchor="middle">Android apps · Interactive web · Developer tools</text>
+</svg>
