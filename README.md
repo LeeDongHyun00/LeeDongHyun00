@@ -51,8 +51,7 @@ UI/UX와 LLM에 관심을 갖고 모바일 앱과 인터랙티브 웹, 개발 �
 
 ### [CAwiki](https://github.com/LeeDongHyun00/CAwiki)
 
-컴퓨터 안에서는 무슨 일이 일어날까?<br />
-23종 하드웨어와 16개 동작 시나리오를 탐색하는 인터랙티브 위키
+AI가 소프트웨어의 역할을 대신할수록 하드웨어를 이해하는 일이 더 중요해질 것이라 생각했습니다. 컴퓨터 부품과 작동 원리를 누구나 쉽게 살펴볼 수 있도록 만든 웹입니다.
 
 <sub>JavaScript · Three.js · WebGL</sub>
 
@@ -63,8 +62,7 @@ UI/UX와 LLM에 관심을 갖고 모바일 앱과 인터랙티브 웹, 개발 �
 
 ### [TREX](https://github.com/LeeDongHyun00/TREX)
 
-카메라 자세 안내부터 운동·식단 기록까지.<br />
-현재는 Jetpack Compose로 만든 Android 앱. 체험판 APK를 공개하고 있습니다.
+운동 자세 교정과 식단 관리를 한곳에서 제공하는 앱을 찾기 어려웠습니다. 두 기능을 함께 사용할 수 있도록 팀과 함께 만든 피트니스 모바일 앱입니다.
 
 <sub>Kotlin · Jetpack Compose · Spring Boot</sub>
 
@@ -77,8 +75,7 @@ UI/UX와 LLM에 관심을 갖고 모바일 앱과 인터랙티브 웹, 개발 �
 
 ### [LocalHarnessMaker](https://github.com/LeeDongHyun00/LocalHarnessMaker)
 
-작업 요청부터 완료 검증, 다음 세션까지.<br />
-작업 계약·검증·컨텍스트 인계를 연결하는 Codex 플러그인.
+Codex를 사용하며 겪은 작업 검증과 세션 인계의 불편함을 줄이고자 시작했습니다. Superpowers 스킬을 바탕으로 작업 흐름을 개선한 스킬·플러그인입니다.
 
 <sub>Python · Codex CLI</sub>
 
@@ -89,8 +86,7 @@ UI/UX와 LLM에 관심을 갖고 모바일 앱과 인터랙티브 웹, 개발 �
 
 ### [그날어때](https://github.com/LeeDongHyun00/geunal-eottae)
 
-서로의 일정을 모아 약속을 잡는 그룹 캘린더.<br />
-모바일 앱과 공유 코어, 서버를 함께 개발 중입니다.
+친구들과 약속 시간을 맞추는 번거로움을 줄이고, 일정과 대화의 사생활도 지키고 싶었습니다. 종단간 암호화를 적용해 만드는 공유 캘린더·채팅 앱입니다.
 
 <sub>Rust · Kotlin · Spring Boot · Elixir</sub>
 
@@ -103,8 +99,7 @@ UI/UX와 LLM에 관심을 갖고 모바일 앱과 인터랙티브 웹, 개발 �
 
 ### [이어 · Wordrelay](https://wordrelay.onrender.com/)
 
-친구와 함께 즐기는 2–4인 실시간 끝말잇기.<br />
-QR이나 방 코드로 초대하고, 짧아지는 제한 시간 안에 단어를 이어 갑니다.
+잠깐 즐길 게임에도 회원가입과 개인정보 입력을 요구하는 점이 불편했습니다. 가입 절차나 불필요한 개인정보 제공 없이 친구들과 가볍게 즐길 수 있도록 만든 끝말잇기 게임입니다.
 
 <sub>Rust · Axum · TypeScript · WebSocket</sub>
 
@@ -115,8 +110,7 @@ QR이나 방 코드로 초대하고, 짧아지는 제한 시간 안에 단어를
 
 ### [Molip · 몰입](https://www.molip.app/)
 
-오늘 할 일부터 집중 시간과 기록까지.<br />
-프로젝트와 할 일을 관리하고, 타이머로 집중한 시간을 일·주·월 단위로 돌아보는 웹 앱.
+목표가 있어도 시작하지 못하는 건, 처음 하는 일이라 방법을 모르기 때문이라고 생각했습니다. 목표를 입력하면 실행할 로드맵을 제시하고 진행 과정을 관리할 수 있도록 만든 웹 앱입니다.
 
 [**Visit site ↗**](https://www.molip.app/)
 
