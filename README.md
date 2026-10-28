@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/header.svg" alt="Hi, I'm Dong Hyun. UI/UX design Mobile apps  Interactive web  Developer tools" />
+  <img width="100%" src="./assets/header.svg" alt="Hi, I'm Dong Hyun. UI/UX design · Mobile apps · Interactive web · Developer tools" />
 </p>
 
 UI/UX와 LLM에 관심을 갖고 Android 앱과 인터랙티브 웹, 개발 도구를 만드는 이동현입니다.
@@ -13,15 +13,29 @@ UI/UX와 LLM에 관심을 갖고 Android 앱과 인터랙티브 웹, 개발 도�
 
 <br />
 
-<code><img height="24" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kotlin/kotlin-original.svg" /></code>
+<code><img height="24" alt="Kotlin" title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kotlin/kotlin-original.svg" /></code>
 &nbsp;
-<code><img height="24" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/android/android-original.svg" /></code>
+<code><img height="24" alt="Swift" title="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg" /></code>
 &nbsp;
-<code><img height="24" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" /></code>
+<code><img height="24" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" /></code>
 &nbsp;
-<code><img height="24" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" /></code>
+<code><img height="24" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" /></code>
 &nbsp;
-<code><img height="24" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" /></code>
+<code><img height="24" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" /></code>
+&nbsp;
+<code><img height="24" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" /></code>
+&nbsp;
+<code><img height="24" alt="Rust" title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rust/rust-original.svg" /></code>
+&nbsp;
+<code><img height="24" alt="Elixir" title="Elixir" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/elixir/elixir-original.svg" /></code>
+&nbsp;
+<code><img height="24" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" /></code>
+&nbsp;
+<code><img height="24" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" /></code>
+&nbsp;
+<code><img height="24" alt="Android" title="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/android/android-original.svg" /></code>
+&nbsp;
+<code><img height="24" alt="Spring" title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" /></code>
 
 <br />
 <br />
