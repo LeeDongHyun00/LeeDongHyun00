@@ -65,7 +65,7 @@ AI가 소프트웨어의 역할을 대신할수록 하드웨어를 이해하는 
 
 <sub>Kotlin · Jetpack Compose · Spring Boot</sub>
 
-[**Preview APK ↗**](https://github.com/LeeDongHyun00/TREX/releases/tag/v1.3.0-preview.7) · [Code](https://github.com/LeeDongHyun00/TREX)
+[**IOS ↗**](https://apps.apple.com/kr/app/trex/id6828356293) · [**Android ↗**](심사 진행 중)
 
 </td>
 </tr>
