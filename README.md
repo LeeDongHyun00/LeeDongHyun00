@@ -7,7 +7,7 @@ UI/UX와 LLM에 관심을 갖고 모바일 앱과 인터랙티브 웹, 개발 �
 **About me**
 
 - 📱 **TREX** — 팀원들과 카메라로 운동 자세와 반복 횟수를 안내하는 Android/IOS 앱을 제작했습니다.
-- 🛠️ **superpowers-sp-plus** — 개발자가 아닌 사람도 평소 말투 그대로 Codex에게 작은 프로그램을 맡길 수 있게 해 주는 에이전트 스킬을 개발했습니다.
+- 🛠️ **k-superpower** — 개발자가 아닌 사람도 평소 말투 그대로 Codex에게 작은 프로그램을 맡길 수 있게 해 주는 에이전트 스킬을 개발했습니다.
 - 🎮 **[이어 · Wordrelay](https://wordrelay.onrender.com/)** — 친구와 함께 즐기는 실시간 끝말잇기 웹 게임을 만들었습니다.
 - ⏱️ **[Molip · 몰입](https://www.molip.app/)** — 할 일·프로젝트 관리와 집중 타이머, 활동 기록을 한곳에 모은 웹 앱을 만들었습니다.
 - 🖥️ **[CAwiki](https://leedonghyun00.github.io/CAwiki/)** — 컴퓨터 부품과 작동 과정을 3D로 살펴보는 웹을 만들고 있습니다.
@@ -72,7 +72,7 @@ AI가 소프트웨어의 역할을 대신할수록 하드웨어를 이해하는 
 <tr>
 <td width="50%" valign="top">
 
-### [superpowers-sp-plus](https://github.com/LeeDongHyun00/superpowers-sp-plus)
+### [k-superpower](https://github.com/LeeDongHyun00/k-superpower)
 
 Codex를 사용하며 겪은 작업 검증과 세션 인계의 불편함을 줄이고자 시작했습니다. Superpowers 스킬을 바탕으로 작업 흐름을 개선한 스킬·플러그인입니다.
 
